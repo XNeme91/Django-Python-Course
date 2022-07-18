@@ -1,0 +1,13 @@
+body {
+    background: url(https://m.gjcdn.net/fireside-post-image/900/8045775-bqjrrvvz-v4.webp);
+}
+
+div {
+    background: red;
+    border: blue 4px ridge;
+    
+}
+
+span {
+    background-color: lightgreen;
+}

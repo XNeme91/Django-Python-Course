@@ -1,0 +1,31 @@
+/* select divs with (.)
+*/
+
+
+.firstDiv {
+    color: blue;
+}
+
+.secondDiv {
+    color: red;
+}
+
+/* select ids with #
+*/
+
+#singledout {
+    color: green;
+    text-decoration: line-through;
+}
+
+/* could do x + y, affects y after x has passed ex.
+*/
+
+h3 + ul {
+    border: 4px dotted purple;
+}
+
+li a[href="https://www.youtube.com/watch?v=Obl893OJnko"] {
+    color: blue;
+    border: 5px solid orange;
+}
