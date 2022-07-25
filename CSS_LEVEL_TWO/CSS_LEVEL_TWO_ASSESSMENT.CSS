@@ -1,0 +1,53 @@
+@font-face {
+    font-family: amogus;
+    src: url("AmongUs-Regular.ttf");
+  }
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.tbl-h1-Class {
+    font-family: amogus;
+    font-size: 4em;
+    text-align: center;
+    color: rgb(53, 53, 53);
+    margin: 15px;
+}
+
+.tbl-td-Class {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 250px 120px;
+    margin: 12.5px;
+}
+
+table {
+    width: 100%;
+}
+
+tr {
+    text-align: center;
+}
+
+#tbl-td-one {
+    background-color: rgb(98, 139, 72);
+}
+
+#tbl-td-two {
+    background-color: #3891a6;
+}
+
+#tbl-td-three {
+    background-color: rgb(14, 17, 22);
+}
+
+#tbl-td-four {
+    background-color: rgb(215, 241, 113);
+}
+
+#tbl-td-five {
+    background-color: rgb(206, 255, 26);
+}
