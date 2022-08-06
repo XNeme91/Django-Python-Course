@@ -51,6 +51,9 @@ ul {
 input[type=submit] {
   background-color: rgb(238, 255, 0);
   border-radius: 6px;
+  font-family: 'Montserrat';
+  font-size: 26px;
+  margin-bottom: 20px;
 }
 
 #firstText{
@@ -74,5 +77,18 @@ input[type=submit] {
 .container2 {
   display: flex;
   align-items: center;
+  padding: 100px 0px;
 
+}
+
+#secondText {
+  position: right;
+  padding-right: 25%;
+  padding-left: 5%;
+}
+
+#secondVideo {
+  position: left;
+  padding-left: 25%;
+  padding-right: 5%;
 }
